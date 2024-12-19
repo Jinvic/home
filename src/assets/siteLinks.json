@@ -25,9 +25,14 @@
     "link": "https://msg.jinvic.top/"
   },
   {
+    "icon": "Image",
+    "name": "图床 | EasyImage2",
+    "link": "https://img.jinvic.top/"
+  },
+  {
     "icon": "Desktop",
     "name": "远程 | RustDesk",
-    "link": "/images/rustdesk.jpg"
+    "link": "https://img.jinvic.top/i/u/2024/12/19/e232vg.jpg"
   },
   {
     "icon": "Key",
