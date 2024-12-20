@@ -32,11 +32,16 @@
   {
     "icon": "Desktop",
     "name": "远程 | RustDesk",
-    "link": "https://img.jinvic.top/i/u/2024/12/19/e232vg.jpg"
+    "link": "https://remote.jinvic.top/"
   },
   {
     "icon": "Key",
     "name": "密码 | Bitwarden",
     "link": "https://pwd.jinvic.top/"
+  },
+  {
+    "icon": "WaveSquare",
+    "name": "代理 | Mihomo",
+    "link": "https://d.jinvic.top/ui"
   }
 ]
