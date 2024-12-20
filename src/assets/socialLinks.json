@@ -1,9 +1,9 @@
 [
   {
-    "name": "Github",
-    "icon": "https://www.pctools.cc/tool/favicon/favicon.php?url=www.github.com",
-    "tip": "去 Github 看看",
-    "url": "https://github.com/jinvic"
+    "name": "Email",
+    "icon": "/images/icon/email.png",
+    "tip": "来封 Email ~",
+    "url": "mailto:2528976435@qq.com"
   },
   {
     "name": "BiliBili",
@@ -18,9 +18,9 @@
     "url": "https://bgm.tv/user/738734"
   },
   {
-    "name": "Email",
-    "icon": "/images/icon/email.png",
-    "tip": "来封 Email ~",
-    "url": "mailto:2528976435@qq.com"
+    "name": "Github",
+    "icon": "https://www.pctools.cc/tool/favicon/favicon.php?url=www.github.com",
+    "tip": "去 Github 看看",
+    "url": "https://github.com/jinvic"
   }
 ]
