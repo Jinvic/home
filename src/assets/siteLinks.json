@@ -40,6 +40,11 @@
     "link": "https://pwd.jinvic.top/"
   },
   {
+    "icon": "Fingerprint",
+    "name": "验证 | 2FAuth",
+    "link": "https://2fa.jinvic.top/"
+  },
+  {
     "icon": "WaveSquare",
     "name": "代理 | Mihomo",
     "link": "https://d.jinvic.top/ui"
