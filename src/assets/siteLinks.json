@@ -11,8 +11,8 @@
   },
   {
     "icon": "Book",
-    "name": "笔记 | Mkdocs",
-    "link": "https://note.jinvic.top/"
+    "name": "文档 | Mkdocs",
+    "link": "https://doc.jinvic.top/"
   },
   {
     "icon": "Cloud",
@@ -30,7 +30,17 @@
     "link": "https://img.jinvic.top/"
   },
   {
-    "icon": "Desktop",
+    "icon": "Dashboard",
+    "name": "面板 | 1Panel",
+    "link": "https://p.jinvic.top/"
+  },
+  {
+    "icon": "DashboardOutlined",
+    "name": "代理 | Mihomo",
+    "link": "https://d.jinvic.top/ui"
+  },
+  {
+    "icon": "DesktopSignal24Regular",
     "name": "远程 | RustDesk",
     "link": "https://remote.jinvic.top/"
   },
@@ -43,10 +53,5 @@
     "icon": "Fingerprint",
     "name": "验证 | 2FAuth",
     "link": "https://2fa.jinvic.top/"
-  },
-  {
-    "icon": "WaveSquare",
-    "name": "代理 | Mihomo",
-    "link": "https://d.jinvic.top/ui"
   }
 ]
