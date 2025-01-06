@@ -15,6 +15,11 @@
     "link": "https://doc.jinvic.top/"
   },
   {
+    "icon": "BookOpen",
+    "name": "阅读 | Koodo",
+    "link": "https://read.jinvic.top/"
+  },
+  {
     "icon": "Cloud",
     "name": "网盘 | Alist",
     "link": "https://pan.jinvic.top/"
