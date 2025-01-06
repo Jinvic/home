@@ -15,11 +15,6 @@
     "link": "https://doc.jinvic.top/"
   },
   {
-    "icon": "BookOpen",
-    "name": "阅读 | Koodo",
-    "link": "https://read.jinvic.top/"
-  },
-  {
     "icon": "Cloud",
     "name": "网盘 | Alist",
     "link": "https://pan.jinvic.top/"
@@ -58,5 +53,10 @@
     "icon": "Fingerprint",
     "name": "验证 | 2FAuth",
     "link": "https://2fa.jinvic.top/"
+  },
+  {
+    "icon": "BookOpen",
+    "name": "阅读 | Koodo",
+    "link": "https://read.jinvic.top/"
   }
 ]
