@@ -35,28 +35,13 @@
     "link": "https://p.jinvic.top/"
   },
   {
-    "icon": "DashboardOutlined",
-    "name": "代理 | Mihomo",
-    "link": "https://d.jinvic.top/ui"
-  },
-  {
     "icon": "DesktopSignal24Regular",
     "name": "远程 | RustDesk",
     "link": "https://remote.jinvic.top/"
   },
   {
-    "icon": "Key",
-    "name": "密码 | Bitwarden",
-    "link": "https://pwd.jinvic.top/"
-  },
-  {
     "icon": "Fingerprint",
     "name": "验证 | 2FAuth",
     "link": "https://2fa.jinvic.top/"
-  },
-  {
-    "icon": "BookOpen",
-    "name": "阅读 | Koodo",
-    "link": "https://read.jinvic.top/"
   }
 ]
