@@ -43,12 +43,12 @@
 <script setup>
 import { Icon } from "@vicons/utils";
 // 可前往 https://www.xicons.org 自行挑选并在此处引入
-import { Link, Blog, CompactDisc, Cloud, Compass, Book, Fire, LaptopCode, Comment, Microblog, Desktop, Key, Image, WaveSquare, Fingerprint, BookOpen } from "@vicons/fa"; // 注意使用正确的类别
+import { Link, Blog, CompactDisc, Cloud, Compass, Book, Fire, LaptopCode, Comment, Microblog, Key, Image, Fingerprint, BookOpen } from "@vicons/fa"; // 注意使用正确的类别
 import { DesktopSignal24Regular } from "@vicons/fluent"; // 注意使用正确的类别
 import { DashboardOutlined } from "@vicons/antd"; // 注意使用正确的类别
-import { Message } from "@vicons/tabler"; // 注意使用正确的类别
-import { SmartphoneFilled } from "@vicons/material"; // 注意使用正确的类别
-import { Dashboard } from "@vicons/carbon"; // 注意使用正确的类别
+// import { Message } from "@vicons/tabler"; // 注意使用正确的类别
+// import { SmartphoneFilled } from "@vicons/material"; // 注意使用正确的类别
+import { Dashboard, ChatBot } from "@vicons/carbon"; // 注意使用正确的类别
 import { mainStore } from "@/store";
 import { Swiper, SwiperSlide } from "swiper/vue";
 import { Pagination, Mousewheel } from "swiper/modules";
@@ -84,6 +84,7 @@ const siteIcon = {
   DashboardOutlined,
   DesktopSignal24Regular,
   BookOpen,
+  ChatBot,
 };
 
 // 链接跳转
