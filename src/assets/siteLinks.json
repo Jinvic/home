@@ -48,5 +48,15 @@
     "icon": "Fingerprint",
     "name": "验证 | 2FAuth",
     "link": "https://2fa.jinvic.top/"
+  },
+  {
+    "icon": "Key",
+    "name": "密码 | Bitwarden",
+    "link": "https://pwd.jinvic.top/"
+  },
+  {
+    "icon": "BookOpen",
+    "name": "阅读 | Koodo",
+    "link": "https://read.jinvic.top/"
   }
 ]
