@@ -3,15 +3,5 @@
         "icon": "DashboardOutlined",
         "name": "代理 | Mihomo",
         "link": "https://d.jinvic.top/ui"
-      },
-      {
-        "icon": "Key",
-        "name": "密码 | Bitwarden",
-        "link": "https://pwd.jinvic.top/"
-      },
-      {
-        "icon": "BookOpen",
-        "name": "阅读 | Koodo",
-        "link": "https://read.jinvic.top/"
       }
 ]
