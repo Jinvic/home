@@ -46,7 +46,7 @@ import { Icon } from "@vicons/utils";
 import { Link, Blog, CompactDisc, Cloud, Compass, Book, Fire, LaptopCode, Comment, Microblog, Key, Image, Fingerprint, BookOpen, Envelope } from "@vicons/fa"; // 注意使用正确的类别
 import { DesktopSignal24Regular } from "@vicons/fluent"; // 注意使用正确的类别
 import { DashboardOutlined } from "@vicons/antd"; // 注意使用正确的类别
-// import { Message } from "@vicons/tabler"; // 注意使用正确的类别
+import { Message, Books } from "@vicons/tabler"; // 注意使用正确的类别
 // import { SmartphoneFilled } from "@vicons/material"; // 注意使用正确的类别
 import { Dashboard, ChatBot } from "@vicons/carbon"; // 注意使用正确的类别
 import { mainStore } from "@/store";
@@ -86,6 +86,7 @@ const siteIcon = {
   BookOpen,
   ChatBot,
   Envelope,
+  Books,
 };
 
 // 链接跳转

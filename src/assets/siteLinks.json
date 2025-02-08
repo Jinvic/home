@@ -21,14 +21,14 @@
     "link": "https://email.jinvic.top/"
   },
   {
+    "icon": "Books",
+    "name": "书库 | Talebook",
+    "link": "https://book.jinvic.top/"
+  },
+  {
     "icon": "Cloud",
     "name": "网盘 | Alist",
     "link": "https://pan.jinvic.top/"
-  },
-  {
-    "icon": "Image",
-    "name": "图床 | EasyImage2",
-    "link": "https://img.jinvic.top/"
   },
 
   {
@@ -63,6 +63,11 @@
     "link": "https://pwd.jinvic.top/"
   },
 
+  {
+    "icon": "Image",
+    "name": "图床 | EasyImage2",
+    "link": "https://img.jinvic.top/"
+  },
   {
     "icon": "BookOpen",
     "name": "阅读 | Koodo",
