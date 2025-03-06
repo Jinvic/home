@@ -3,5 +3,10 @@
     "icon": "DashboardOutlined",
     "name": "代理 | Mihomo",
     "link": "https://d.jinvic.top/ui"
+  },
+  {
+    "icon": "Books",
+    "name": "书库 | Talebook",
+    "link": "https://book.jinvic.top/"
   }
 ]

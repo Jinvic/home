@@ -47,7 +47,7 @@ import { Link, Blog, CompactDisc, Cloud, Compass, Book, Fire, LaptopCode, Commen
 import { DesktopSignal24Regular } from "@vicons/fluent"; // 注意使用正确的类别
 import { DashboardOutlined } from "@vicons/antd"; // 注意使用正确的类别
 import { Message, Books } from "@vicons/tabler"; // 注意使用正确的类别
-// import { SmartphoneFilled } from "@vicons/material"; // 注意使用正确的类别
+import { DrawRound } from "@vicons/material"; // 注意使用正确的类别
 import { Dashboard, ChatBot } from "@vicons/carbon"; // 注意使用正确的类别
 import { mainStore } from "@/store";
 import { Swiper, SwiperSlide } from "swiper/vue";
@@ -87,6 +87,7 @@ const siteIcon = {
   ChatBot,
   Envelope,
   Books,
+  DrawRound,
 };
 
 // 链接跳转
