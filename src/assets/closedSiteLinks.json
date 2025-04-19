@@ -8,5 +8,20 @@
     "icon": "Books",
     "name": "书库 | Talebook",
     "link": "https://book.jinvic.top/"
+  },
+  {
+    "icon": "BookOpen",
+    "name": "阅读 | Koodo",
+    "link": "https://read.jinvic.top/"
+  },
+  {
+    "icon": "Key",
+    "name": "密码 | Bitwarden",
+    "link": "https://pwd.jinvic.top/"
+  },
+  {
+    "icon": "ChatBot",
+    "name": "GPT | ChatGPT-Web",
+    "link": "https://chat.jinvic.top/"
   }
 ]
