@@ -31,20 +31,36 @@
     "link": "https://pan.jinvic.top/"
   },
 
+    {
+    "icon": "ShareSquare",
+    "name": "分享 | FileCodeBox",
+    "link": "https://share.jinvic.top/"
+  },
+  {
+    "icon": "PlayCircle",
+    "name": "影视 | LibreTV",
+    "link": "https://tv.jinvic.top/"
+  },
+  {
+    "icon": "AlignLeft",
+    "name": "优化 | PromptOptimizer",
+    "link": "https://prompt.jinvic.top/"
+  },
+
   {
     "icon": "Dashboard",
     "name": "面板 | 1Panel",
     "link": "https://p.jinvic.top/"
   },
   {
-    "icon": "DashboardOutlined",
-    "name": "代理 | Mihomo",
-    "link": "https://d.jinvic.top/ui"
-  },
-  {
     "icon": "DesktopSignal24Regular",
     "name": "远程 | RustDesk",
     "link": "https://remote.jinvic.top/"
+  },
+    {
+    "icon": "UserAccess",
+    "name": "内网 | Frp",
+    "link": "https://frps.jinvic.top/"
   },
 
   {
