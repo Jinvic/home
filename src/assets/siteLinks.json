@@ -1,81 +1,87 @@
 [
   {
     "icon": "Blog",
-    "name": "博客 | Hugo",
+    "name": "个人博客",
     "link": "https://blog.jinvic.top/"
   },
   {
     "icon": "Microblog",
-    "name": "微博 | Moments",
+    "name": "微博客",
     "link": "https://mblog.jinvic.top/"
   },
   {
     "icon": "Book",
-    "name": "文档 | Mkdocs",
+    "name": "文档站",
     "link": "https://doc.jinvic.top/"
   },
-
+  {
+    "icon": "ShareSquare",
+    "name": "异步分享",
+    "link": "https://share.jinvic.top/"
+  },
+  {
+    "icon": "ShareSquareRegular",
+    "name": "同步分享",
+    "link": "https://rtshare.jinvic.top/"
+  },
+  {
+    "icon": "Sync",
+    "name": "文件同步",
+    "link": "https://sync.jinvic.top/"
+  },
+  {
+    "icon": "PlayCircle",
+    "name": "影视聚合",
+    "link": "https://tv.jinvic.top/"
+  },
   {
     "icon": "Envelope",
-    "name": "邮箱 | Roundcube",
+    "name": "邮箱",
     "link": "https://email.jinvic.top/"
   },
   {
     "icon": "DrawRound",
-    "name": "画板 | Excalidraw",
+    "name": "画板",
     "link": "https://draw.jinvic.top/"
   },
   {
-    "icon": "Cloud",
-    "name": "网盘 | Alist",
-    "link": "https://pan.jinvic.top/"
-  },
-
-    {
-    "icon": "ShareSquare",
-    "name": "分享 | FileCodeBox",
-    "link": "https://share.jinvic.top/"
-  },
-  {
-    "icon": "PlayCircle",
-    "name": "影视 | LibreTV",
-    "link": "https://tv.jinvic.top/"
-  },
-  {
     "icon": "AlignLeft",
-    "name": "优化 | PromptOptimizer",
+    "name": "提示词优化",
     "link": "https://prompt.jinvic.top/"
   },
-
   {
     "icon": "Dashboard",
-    "name": "面板 | 1Panel",
+    "name": "面板",
     "link": "https://p.jinvic.top/"
   },
   {
     "icon": "DesktopSignal24Regular",
-    "name": "远程 | RustDesk",
+    "name": "远程",
     "link": "https://remote.jinvic.top/"
   },
-    {
+  {
     "icon": "UserAccess",
-    "name": "内网 | Frp",
+    "name": "内网穿透",
     "link": "https://frps.jinvic.top/"
   },
-
   {
     "icon": "Comment",
-    "name": "消息 | Gotify",
+    "name": "消息推送",
     "link": "https://msg.jinvic.top/"
   },
   {
     "icon": "Fingerprint",
-    "name": "验证 | 2FAuth",
+    "name": "二次验证",
     "link": "https://2fa.jinvic.top/"
   },
   {
-    "icon": "Image",
-    "name": "图床 | EasyImage2",
-    "link": "https://img.jinvic.top/"
+    "icon": "Analytics",
+    "name": "流量分析",
+    "link": "https://umami.jinvic.top/"
+  },
+  {
+    "icon": "ReportMoney",
+    "name": "订阅管理",
+    "link": "https://subscribe.jinvic.top/"
   }
 ]

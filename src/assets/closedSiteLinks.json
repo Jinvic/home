@@ -28,5 +28,10 @@
     "icon": "ChatBot",
     "name": "GPT | ChatGPT-Web",
     "link": "https://chat.jinvic.top/"
+  },
+  {
+    "icon": "Image",
+    "name": "图床 | EasyImage2",
+    "link": "https://img.jinvic.top/"
   }
 ]
