@@ -33,5 +33,10 @@
     "icon": "Image",
     "name": "图床 | EasyImage2",
     "link": "https://img.jinvic.top/"
+  },
+  {
+    "icon": "AlignLeft",
+    "name": "提示词优化",
+    "link": "https://prompt.jinvic.top/"
   }
 ]

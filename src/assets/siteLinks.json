@@ -45,11 +45,6 @@
     "link": "https://draw.jinvic.top/"
   },
   {
-    "icon": "AlignLeft",
-    "name": "提示词优化",
-    "link": "https://prompt.jinvic.top/"
-  },
-  {
     "icon": "Dashboard",
     "name": "面板",
     "link": "https://p.jinvic.top/"
@@ -80,8 +75,13 @@
     "link": "https://umami.jinvic.top/"
   },
   {
-    "icon": "ReportMoney",
-    "name": "订阅管理",
+    "icon": "Report",
+    "name": "订阅",
     "link": "https://subscribe.jinvic.top/"
+  },
+  {
+    "icon": "ReportMoney",
+    "name": "记账",
+    "link": "https://ez.jinvic.top/"
   }
 ]

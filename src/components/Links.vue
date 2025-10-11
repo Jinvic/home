@@ -46,7 +46,7 @@ import { Icon } from "@vicons/utils";
 import { Link, Blog, CompactDisc, Cloud, Compass, Book, Fire, LaptopCode, Comment, Microblog, Key, Image, Fingerprint, BookOpen, Envelope, ShareSquare, PlayCircle, AlignLeft, Sync, ShareSquareRegular } from "@vicons/fa"; // 注意使用正确的类别
 import { DesktopSignal24Regular } from "@vicons/fluent"; // 注意使用正确的类别
 import { DashboardOutlined } from "@vicons/antd"; // 注意使用正确的类别
-import { Books,ReportMoney } from "@vicons/tabler"; // 注意使用正确的类别
+import { Books,ReportMoney, Report } from "@vicons/tabler"; // 注意使用正确的类别
 import { DrawRound } from "@vicons/material"; // 注意使用正确的类别
 import { Dashboard, ChatBot, UserAccess, Analytics } from "@vicons/carbon"; // 注意使用正确的类别
 import { mainStore } from "@/store";
@@ -95,7 +95,8 @@ const siteIcon = {
   ShareSquareRegular,
   Sync,
   Analytics,
-  ReportMoney
+  ReportMoney,
+  Report
 };
 
 // 链接跳转
