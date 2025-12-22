@@ -38,5 +38,35 @@
     "icon": "AlignLeft",
     "name": "提示词优化",
     "link": "https://prompt.jinvic.top/"
+  },
+  {
+    "icon": "PlayCircle",
+    "name": "影视聚合",
+    "link": "https://tv.jinvic.top/"
+  },
+  {
+    "icon": "Envelope",
+    "name": "邮箱",
+    "link": "https://email.jinvic.top/"
+  },
+  {
+    "icon": "DrawRound",
+    "name": "画板",
+    "link": "https://draw.jinvic.top/"
+  },
+  {
+    "icon": "DesktopSignal24Regular",
+    "name": "远程",
+    "link": "https://remote.jinvic.top/"
+  },
+  {
+    "icon": "Comment",
+    "name": "消息推送",
+    "link": "https://msg.jinvic.top/"
+  },
+  {
+    "icon": "Analytics",
+    "name": "流量分析",
+    "link": "https://umami.jinvic.top/"
   }
 ]

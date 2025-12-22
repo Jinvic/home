@@ -30,29 +30,9 @@
     "link": "https://sync.jinvic.top/"
   },
   {
-    "icon": "PlayCircle",
-    "name": "影视聚合",
-    "link": "https://tv.jinvic.top/"
-  },
-  {
-    "icon": "Envelope",
-    "name": "邮箱",
-    "link": "https://email.jinvic.top/"
-  },
-  {
-    "icon": "DrawRound",
-    "name": "画板",
-    "link": "https://draw.jinvic.top/"
-  },
-  {
     "icon": "Dashboard",
     "name": "面板",
-    "link": "https://p.jinvic.top/"
-  },
-  {
-    "icon": "DesktopSignal24Regular",
-    "name": "远程",
-    "link": "https://remote.jinvic.top/"
+    "link": "https://p2.jinvic.top/"
   },
   {
     "icon": "UserAccess",
@@ -60,19 +40,9 @@
     "link": "https://frps.jinvic.top/"
   },
   {
-    "icon": "Comment",
-    "name": "消息推送",
-    "link": "https://msg.jinvic.top/"
-  },
-  {
     "icon": "Fingerprint",
     "name": "二次验证",
     "link": "https://2fa.jinvic.top/"
-  },
-  {
-    "icon": "Analytics",
-    "name": "流量分析",
-    "link": "https://umami.jinvic.top/"
   },
   {
     "icon": "Report",
