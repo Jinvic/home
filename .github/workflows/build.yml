@@ -71,7 +71,6 @@ jobs:
           SCRIPT_BEFORE: |
             echo "🔧 开始部署..."
             echo "时间: $(date)"
-            echo "用户: $(whoami)"
           SCRIPT_AFTER: |
             echo "✅ 部署完成"
             echo "时间: $(date)"
