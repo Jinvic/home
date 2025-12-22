@@ -68,5 +68,10 @@
     "icon": "Analytics",
     "name": "流量分析",
     "link": "https://umami.jinvic.top/"
+  },
+  {
+    "icon": "Report",
+    "name": "订阅",
+    "link": "https://subscribe.jinvic.top/"
   }
 ]
