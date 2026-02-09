@@ -1,7 +1,7 @@
 [
   {
     "icon": "Blog",
-    "name": "个人博客",
+    "name": "博客",
     "link": "https://blog.jinvic.top/"
   },
   {
@@ -13,6 +13,21 @@
     "icon": "Book",
     "name": "文档站",
     "link": "https://doc.jinvic.top/"
+  },
+  {
+    "icon": "Database",
+    "name": "知识库",
+    "link": "https://pocketbase.jinvic.top/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "网盘",
+    "link": "https://pan.jinvic.top/"
+  },
+  {
+    "icon": "FileInvoiceDollar",
+    "name": "记账",
+    "link": "https://ez.jinvic.top/"
   },
   {
     "icon": "ShareSquare",
@@ -45,8 +60,13 @@
     "link": "https://2fa.jinvic.top/"
   },
   {
-    "icon": "ReportMoney",
-    "name": "记账",
-    "link": "https://ez.jinvic.top/"
+    "icon": "Bot",
+    "name": "Bot框架",
+    "link": "https://koishi.jinvic.top/"
+  },
+  {
+    "icon": "ChatBot",
+    "name": "QQ客户端",
+    "link": "https://napcat.jinvic.top/"
   }
 ]
