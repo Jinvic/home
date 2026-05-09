@@ -15,6 +15,21 @@
     "link": "https://doc.jinvic.top/"
   },
   {
+    "icon": "Envelope",
+    "name": "邮箱",
+    "link": "https://email.jinvic.top/"
+  },
+  {
+    "icon": "Rss",
+    "name": "订阅",
+    "link": "https://rss.jinvic.top/"
+  },
+  {
+    "icon": "CalendarCheckRegular",
+    "name": "Todo",
+    "link": "https://todo.jinvic.top/"
+  },
+  {
     "icon": "Database",
     "name": "知识库",
     "link": "https://pocketbase.jinvic.top/"
@@ -46,7 +61,7 @@
   },
   {
     "icon": "Dashboard",
-    "name": "面板",
+    "name": "服务器面板",
     "link": "https://p2.jinvic.top/"
   },
   {
@@ -62,7 +77,7 @@
   {
     "icon": "Bot",
     "name": "Bot框架",
-    "link": "https://koishi.jinvic.top/"
+    "link": "https://astrbot.jinvic.top/"
   },
   {
     "icon": "ChatBot",
