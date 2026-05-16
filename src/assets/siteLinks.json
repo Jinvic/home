@@ -45,6 +45,21 @@
     "link": "https://ez.jinvic.top/"
   },
   {
+    "icon": "Tv",
+    "name": "影视",
+    "link": "https://tv.jinvic.top/"
+  },
+  {
+    "icon": "Music",
+    "name": "音乐",
+    "link": "https://lx.jinvic.top/music/"
+  },
+  {
+    "icon": "BookOpen",
+    "name": "漫画",
+    "link": "https://suwa.jinvic.top/"
+  },
+  {
     "icon": "ShareSquare",
     "name": "异步分享",
     "link": "https://share.jinvic.top/"
