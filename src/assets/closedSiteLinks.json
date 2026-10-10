@@ -83,5 +83,10 @@
     "icon": "Music",
     "name": "音乐",
     "link": "https://lx.jinvic.top/music/"
+  },
+  {
+    "icon": "ShareSquareRegular",
+    "name": "同步分享",
+    "link": "https://rtshare.jinvic.top/"
   }
 ]

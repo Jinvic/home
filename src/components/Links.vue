@@ -46,9 +46,9 @@ import { Icon } from "@vicons/utils";
 import { Link, Blog, CompactDisc, Cloud, Compass, Book, Fire, LaptopCode, Comment, Microblog, Key, Image, Fingerprint, BookOpen, Envelope, ShareSquare, PlayCircle, AlignLeft, Sync, ShareSquareRegular, Database, FileInvoiceDollar, Rss, CalendarCheckRegular, Tv, Music } from "@vicons/fa"; // 注意使用正确的类别
 import { DesktopSignal24Regular } from "@vicons/fluent"; // 注意使用正确的类别
 import { DashboardOutlined } from "@vicons/antd"; // 注意使用正确的类别
-import { Books,ReportMoney, Report } from "@vicons/tabler"; // 注意使用正确的类别
+import { Books, Report } from "@vicons/tabler"; // 注意使用正确的类别
 import { DrawRound } from "@vicons/material"; // 注意使用正确的类别
-import { Dashboard, ChatBot, UserAccess, Analytics, Bot } from "@vicons/carbon"; // 注意使用正确的类别
+import { Dashboard, ChatBot, UserAccess, Analytics, Bot, CloudMonitoring } from "@vicons/carbon"; // 注意使用正确的类别
 import { mainStore } from "@/store";
 import { Swiper, SwiperSlide } from "swiper/vue";
 import { Pagination, Mousewheel } from "swiper/modules";
@@ -77,32 +77,20 @@ const siteIcon = {
   LaptopCode,
   Comment,
   Microblog,
-  Key,
-  Image,
   Fingerprint,
   Dashboard,
-  DashboardOutlined,
-  DesktopSignal24Regular,
   BookOpen,
   ChatBot,
   Envelope,
-  Books,
-  DrawRound,
   ShareSquare,
-  PlayCircle,
-  AlignLeft,
   UserAccess,
-  ShareSquareRegular,
   Sync,
   Analytics,
-  FileInvoiceDollar,
-  Report,
   Bot,
   Database,
   Rss,
   CalendarCheckRegular,
-  Tv,
-  Music
+  CloudMonitoring
 };
 
 // 链接跳转

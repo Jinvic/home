@@ -46,13 +46,8 @@
   },
   {
     "icon": "ShareSquare",
-    "name": "异步分享",
+    "name": "文件分享",
     "link": "https://share.jinvic.top/"
-  },
-  {
-    "icon": "ShareSquareRegular",
-    "name": "同步分享",
-    "link": "https://rtshare.jinvic.top/"
   },
   {
     "icon": "Sync",
@@ -60,9 +55,14 @@
     "link": "https://sync.jinvic.top/"
   },
   {
-    "icon": "Dashboard",
-    "name": "服务器面板",
-    "link": "https://p2.jinvic.top/"
+    "icon": "Comment",
+    "name": "消息通知",
+    "link": "https://ntfy.jinvic.top/"
+  },
+    {
+    "icon": "CloudMonitoring",
+    "name": "状态监控",
+    "link": "https://uptime.jinvic.top/"
   },
   {
     "icon": "UserAccess",
@@ -73,6 +73,11 @@
     "icon": "Fingerprint",
     "name": "二次验证",
     "link": "https://2fa.jinvic.top/"
+  },
+  {
+    "icon": "Dashboard",
+    "name": "服务器面板",
+    "link": "https://p2.jinvic.top/"
   },
   {
     "icon": "Bot",
